@@ -1,0 +1,22 @@
+.footer {
+    text-align: center;
+    color: var(--dark-blue);
+    opacity: 0.6;
+    position: relative;
+    top: 40px;
+    padding-bottom: 50px;
+}
+
+
+
+.footer i {
+    color: #666666;
+    font-size: 1.8rem;
+    opacity: 0.6;
+    margin-left: 5px;
+}
+
+
+i:hover {
+    opacity: 1;
+}
